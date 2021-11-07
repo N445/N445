@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Naas's GitHub stats](https://github-readme-stats.vercel.app/api?username=N445&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=N445&show_icons=true&theme=dark)
+
+[![Naas's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N445&show_icons=true&theme=dark&hide=javascript,html,css)](https://github-readme-stats.vercel.app/api/top-langs/?username=N445&show_icons=true&theme=dark&hide=javascript,html,css)
+
 
 <!--
 **N445/N445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
